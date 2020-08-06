@@ -6,6 +6,7 @@
 
 [Tech Blog](http://wlswoo.tistory.com/)
 
+---
 #### 사용 기술
 
 __JavaScript__, __TypeScript__
@@ -25,8 +26,10 @@ __Etc__
   - RestAPI
   - GraphQL
   - AWS, GCP
-
+  
+---
 #### 현재 공부 중
+
 - Golang
 - Docker
 - PostgreSQL
