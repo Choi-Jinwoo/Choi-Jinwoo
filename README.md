@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi 👋
 
-<!--
-**Choi-Jinwoo/Choi-Jinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+`주니어 백엔드 개발자`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Tech Blog](http://wlswoo.tistory.com/)
+
+#### 사용 기술
+
+__JavaScript__, __TypeScript__
+  - express
+  - koa
+  - sequelize
+  - typeorm
+
+__Java__
+  - spring
+  
+__DB__
+  - MySQL
+  - MongoDB
+  
+__Etc__
+  - RestAPI
+  - GraphQL
+  - AWS, GCP
+
+#### 현재 공부 중
+- Golang
+- Docker
+- PostgreSQL
