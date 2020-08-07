@@ -1,10 +1,11 @@
 ## Hi 👋
 
-`주니어 백엔드 개발자`
-
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010322945153)](https://www.facebook.com/ChoiJinwoo03/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlwlsdn0828@gmail.com)](mailto:chlwlsdn0828@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://wlswoo.tistory.com/)](https://wlswoo.tistory.com/)
+
+[![Choi-Jinwoo's github stats](https://github-readme-stats.vercel.app/api?username=Choi-Jinwoo&show_icons=true&hide_border=true&count_private=true)](https://github.com/Choi-Jinwoo)
+
 
 ### 사용 기술
 
