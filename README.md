@@ -7,14 +7,13 @@
 
 |이미지|이름|설명|진행|   |
 |---|---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/javascript.png)||   |   |   |
-|![](https://img.icons8.com/color/24/000000/typescript.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/add-database.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/api.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/graphql.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/vue-js.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/react-native.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/docker.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/golang.png)|   |   |   |   |
-|![](https://img.icons8.com/color/24/000000/docker.png)|   |   |   |   |
+|![](https://img.icons8.com/color/24/000000/javascript.png)|자바스크립트|   |   |
+|![](https://img.icons8.com/color/24/000000/typescript.png)|타입스크립트|   |   |
+|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|자바|   |   |
+|![](https://img.icons8.com/color/24/000000/golang.png)|Golang|   |   |
+|![](https://img.icons8.com/color/24/000000/add-database.png)|DB|   |   |
+|![](https://img.icons8.com/color/24/000000/api.png)|API|   |   |
+|![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|   |   |
+|![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|   |   |
+|![](https://img.icons8.com/color/24/000000/react-native.png)|ReactJS|   |   |
+|![](https://img.icons8.com/color/24/000000/docker.png)|도커|   |   |
