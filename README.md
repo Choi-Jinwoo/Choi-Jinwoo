@@ -11,9 +11,9 @@
 
 ### 사용&학습 기술  
 
-|이미지|이름|설명|진행|   |
-|---|---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|   |   |
+||이름|설명|진행|
+|---|---|---|---|
+|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|모던 자바스크립트를 사용합니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|   |   |
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|   |   |
 |![](https://img.icons8.com/color/24/000000/golang.png)|Golang|   |   |
