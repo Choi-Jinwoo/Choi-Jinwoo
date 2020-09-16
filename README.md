@@ -14,7 +14,7 @@
 ||이름|설명|진행|
 |---|---|---|---|
 |![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|모던 자바스크립트를 사용합니다|![80%](https://progress-bar.dev/80)|
-|![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|기존 자바스크립트를 사용한 프로젝트를 타입스크립트로 변경하는 중입니다|![60%](https://progress-bar.dev/60)|
+|![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|기존 자바스크립트를 사용한 프로젝트를 타입스크립트로 변경하는 중입니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|자바를 통해 객체지향적 코드를 작성하려고 노력합니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/golang.png)|Golang|Go언어를 사용한 프로젝트를 진행하기 위해 공부합니다|![20%](https://progress-bar.dev/20)|
 |![](https://img.icons8.com/color/24/000000/add-database.png)|DB|MySQL, PostgreSQL, MsSQL과 같은 관계형 DBMS를 주로 사용합니다|![80%](https://progress-bar.dev/80)|
