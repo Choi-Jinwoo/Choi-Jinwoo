@@ -20,6 +20,7 @@
 |![](https://img.icons8.com/color/24/000000/add-database.png)|DB|MySQL, PostgreSQL, MsSQL과 같은 관계형 DBMS를 주로 사용합니다|![80%](https://progress-bar.dev/80)|
 |![](https://img.icons8.com/color/24/000000/api.png)|API|ExpressJS, NestJS, Spring Boot를 통해 REST API를 제작합니다|![85%](https://progress-bar.dev/85)|
 |![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|GraphQL을 통해 프로젝트를 진행하였습니다|![35%](https://progress-bar.dev/35)|
-|![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|Vue를 통하여 블로그를 제작했습니다|![40%](https://progress-bar.dev/40)|
 |![](https://img.icons8.com/color/24/000000/react-native.png)|ReactJS|React를 이용하여 프로젝트를 여러 프론트엔드 프로젝트를 진행중입니다|![50%](https://progress-bar.dev/50)|
+|![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|Vue를 통하여 블로그를 제작했습니다|![40%](https://progress-bar.dev/40)|
+|![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|Git Branch를 이용하여 협업을 진행합니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/docker.png)|Docker|Docker를 이용하여 배포를 진행하였습니다|![60%](https://progress-bar.dev/60)|
