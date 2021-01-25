@@ -7,6 +7,7 @@
 
 - 대구소프트웨어고등학교 소프트웨어개발과 (2019.03 ~ )
 
+
 [![](https://img.shields.io/badge/facebook-link-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/ChoiJinwoo03/)
 [![](https://img.shields.io/badge/github-link-black?logo=github&style=for-the-badge)](https://github.com/Choi-jinwoo)
 [![](https://img.shields.io/badge/tistory-link-yellow?logo=kakao&style=for-the-badge)](https://wlswoo.tistory.com)
