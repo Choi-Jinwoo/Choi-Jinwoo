@@ -17,5 +17,5 @@
 - [Javascript, Typescript](https://wlswoo.tistory.com/category/개발/Javscript%2CTypescript)
 - [Java](https://wlswoo.tistory.com/category/개발/Java)
 - [알고리즘, 자료구조](https://wlswoo.tistory.com/category/개발/알고리즘%2C%20자료구조)
-- [알고리즈 문제 풀이](https://wlswoo.tistory.com/category/개발/알고리즘%20문제%20풀이)
+- [알고리즘 문제 풀이](https://wlswoo.tistory.com/category/개발/알고리즘%20문제%20풀이)
 - [활동](https://wlswoo.tistory.com/category/활동)
