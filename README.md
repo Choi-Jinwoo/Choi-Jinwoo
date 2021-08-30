@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/facebook-link-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/ChoiJinwoo03/)
 [![](https://img.shields.io/badge/github-link-black?logo=github&style=for-the-badge)](https://github.com/Choi-jinwoo)
 [![](https://img.shields.io/badge/tistory-link-yellow?logo=kakao&style=for-the-badge)](https://wlswoo.tistory.com)
-[![](https://img.shields.io/badge/notion-link-black?logo=notion&style=for-the-badge)](http://notion.so/wlswoo/Choi-Jinwoo-1d1…)
 
 ### 블로그
 - [Javascript, Typescript](https://wlswoo.tistory.com/category/개발/Javscript%2CTypescript)
