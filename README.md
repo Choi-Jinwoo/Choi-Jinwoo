@@ -9,6 +9,7 @@
 - [Riiid](https://github.com/riiid) Frontend Engineer (2022.01.17 ~ )
 
 
-[![](https://img.shields.io/badge/facebook-link-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/ChoiJinwoo03/)
+[![](https://img.shields.io/badge/linkedin-link-white?logo=linkedin&style=for-the-badge)](https://www.facebook.com/ChoiJinwoo03/)
 [![](https://img.shields.io/badge/github-link-black?logo=github&style=for-the-badge)](https://github.com/Choi-jinwoo)
-[![](https://img.shields.io/badge/blog-link-green?logo=github&style=for-the-badge)](https://choi-jinwoo.github.io)
+[![](https://img.shields.io/badge/blog-link-gray?logo=github&style=for-the-badge)](https://www.linkedin.com/in/jinwoo-choi-1a136b205/)
+[![](https://img.shields.io/badge/facebook-link-blue?logo=facebook&style=for-the-badge)](https://www.facebook.com/ChoiJinwoo03/)
