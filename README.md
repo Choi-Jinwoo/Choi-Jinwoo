@@ -5,8 +5,8 @@
   
 항상 꼬꼬마라는 생각으로 기술적, 정신적 부분에서 성장하려고 노력합니다.
 
-- 대구소프트웨어고등학교 소프트웨어개발과 (2019.03 ~ 2022.02.10)
 - [Riiid](https://github.com/riiid) Frontend Engineer (2022.01.17 ~ )
+- 대구소프트웨어고등학교 소프트웨어개발과 (2019.03 ~ 2022.02.10)
 
 
 [![](https://img.shields.io/badge/linkedin-link-white?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jinwoo-choi-1a136b205/)
