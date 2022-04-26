@@ -6,6 +6,7 @@
 #### Experiences
 
 - **[Riiid](https://github.com/riiid) Frontend Engineer** (2022.01.17 ~ Present)
+- **[Woowahan Tech Camp](https://github.com/woowa-techcamp-2021) Intern** (2021.07 ~ 2021.08)
 - **Daegu Software Meister High School** (2019.03 ~ 2022.02.10)
 
 #### SNS
