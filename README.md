@@ -13,4 +13,3 @@
 
 - [Tech Blog](https://choi-jinwoo.github.io)
 - [LinkedIn](https://www.linkedin.com/in/jinwoo-choi-1a136b205)
-- [Facebook](https://www.facebook.com/ChoiJinwoo03)
